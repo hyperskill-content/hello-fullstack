@@ -28,6 +28,7 @@ step-7-fix-cors
 step-8-styling
 
 🚀 How to use this repository
+
 1️⃣ Check out the branch for the step you’re working on:
 
 ```
