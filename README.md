@@ -42,6 +42,7 @@ git checkout step-1-basic-server
 3️⃣ Compare your result with ours to see how it works.
 
 📝 What you’ll learn
+
 The basic structure of full-stack apps
 
 How frontend and backend communicate
