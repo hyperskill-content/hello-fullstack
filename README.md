@@ -7,6 +7,7 @@ This is a simple learning project where you’ll build a complete web app step b
 👉 Goal: Help you see how the simplest frontend and backend pieces connect — and how AI agents can assist at every stage of building.
 
 🌱 How this repository is structured
+
 The main branch contains only this README.
 
 Each step of the project is in its own branch:
